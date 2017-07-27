@@ -6,3 +6,7 @@ My settings for IDE
 ##### if() statement:
 
 + Force braces - always
+
+##### for() statement:
+
++ Force braces - always
