@@ -21,5 +21,3 @@ My settings for IDE
 + Tool buttons -> Disable
 + Navigation Bar -> Disable
 + Toolbar -> Disable
-+ Active Editor
-    + Show Line number -> Disable
